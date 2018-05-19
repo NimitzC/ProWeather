@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "pro_weather"/>
+    <version value = "1"/>
+    <list>
+        <mapping class = "com.project001.proweather.db.Province" />
+        <mapping class = "com.project001.proweather.db.City" />
+        <mapping class = "com.project001.proweather.db.County" />
+    </list>
+</litepal>
